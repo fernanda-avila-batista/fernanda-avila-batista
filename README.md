@@ -11,15 +11,14 @@
 <p align="center">
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 
-  🎓 **Técnica em Desenvolvimento de Sistemas** pelo Senac RS  
-  📚 **Estudante de Computação** pelo IFSul  
-  📊 Atualmente atuando como **Analista de Dados**  
-  ☁️ **AWS Certified Cloud Practitioner** (CLF-C02)  
-  💼 Ex-estagiária na **Compass UOL** (AWS Cloud Data Engineering)  
+  - **Técnica em Desenvolvimento de Sistemas** pelo Senac RS  
+  - **Estudante de Computação** pelo IFSul  
+  - Atualmente atuando como **Analista de Dados**  
+  - **AWS Certified Cloud Practitioner** (CLF-C02)  
+   
 
-  🚀 Experiência com projetos completos: **do Figma ao deploy**  
-  💡 Foco em **código limpo, acessibilidade e soluções escaláveis**  
-  🌱 Sempre aprendendo sobre **engenharia de dados e cloud computing**
+  - Experiência com projetos completos: **do Figma ao deploy**  
+  - Foco em **código limpo, acessibilidade e soluções escaláveis**  
 </p>
 
 <br>
@@ -55,8 +54,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanda-avila&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-avila&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
-</div>
+ 
 
 <div align="center">
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=fernanda-avila&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
