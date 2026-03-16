@@ -57,7 +57,7 @@
 
 <br>
 
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60px"> Vamos conectar?
+## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60px"> Contatos
 
 <div align="center">
   <a href="https://www.linkedin.com/in/fernanda-avila-batista/" target="_blank">
