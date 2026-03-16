@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6E4F9F&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+a+Fernanda!;Welcome+to+my+profile!;Data+%26+Cloud+Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=6E4F9F&center=true&vCenter=true&width=435&lines=Olá,+eu+sou+a+Fernanda!;Welcome+to+my+profile!;Data+%26+Cloud+Engineer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -15,8 +15,6 @@
   - **Estudante de Computação** pelo IFSul  
   - Atualmente atuando como **Analista de Dados**  
   - **AWS Certified Cloud Practitioner** (CLF-C02)  
-   
-
   - Experiência com projetos completos: **do Figma ao deploy**  
   - Foco em **código limpo, acessibilidade e soluções escaláveis**  
 </p>
@@ -50,14 +48,11 @@
 
 <br>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GitHub Analytics
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25px"> GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanda-avila&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
- 
-
-<div align="center">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=fernanda-avila&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanda-avila&show_icons=true&theme=midnight-purple&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-avila&layout=compact&langs_count=8&theme=midnight-purple&hide_border=true"/>
 </div>
 
 <br>
@@ -65,10 +60,10 @@
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="60px"> Vamos conectar?
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/fernanda-avila/" target="_blank">
+  <a href="https://www.linkedin.com/in/fernanda-avila-batista/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:fernanda.avila@email.com">
+  <a href="mailto:avilafernandaa@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/fernanda-avila" target="_blank">
@@ -82,10 +77,4 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=fernanda-avila&label=Profile%20views&color=6E4F9F&style=flat" alt="fernanda-avila" />
-</div>
-
-<div align="center">
-  
-  ### ⭐ "Transformando dados em decisões, código em soluções" ⭐
-  
 </div>
