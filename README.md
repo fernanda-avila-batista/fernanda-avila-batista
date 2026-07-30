@@ -16,7 +16,7 @@ Sou Analista de Dados e estudante de Computação no IFSul, com formação técn
 
 Atuo no desenvolvimento de soluções voltadas à Engenharia de Dados, com foco em pipelines ETL, processamento de dados, modelagem em SQL e computação em nuvem.
 
-Possuo certificação **AWS Certified Cloud Practitioner (CLF-C02)** e direciono meus estudos para Engenharia de Dados, arquitetura de dados e Inteligência Artificial.
+Possuo as certificações **AWS Certified Cloud Practitioner (CLF-C02)** e **GitHub Foundations**, e direciono meus estudos para Engenharia de Dados, arquitetura de dados e Inteligência Artificial.
 
 ---
 
@@ -66,11 +66,13 @@ Possuo certificação **AWS Certified Cloud Practitioner (CLF-C02)** e direciono
 
 ---
 
-## Certificações
+## Licenças e Certificações
 
 <p>
 
 <img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner_(CLF--C02)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-Foundations-181717?style=for-the-badge&logo=github&logoColor=white"/>
 
 </p>
 
