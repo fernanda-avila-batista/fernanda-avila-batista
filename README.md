@@ -76,32 +76,6 @@ Possuo certificação **AWS Certified Cloud Practitioner (CLF-C02)** e direciono
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fernanda-avila&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-avila&layout=compact&theme=midnight-purple&hide_border=true"/>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com?user=fernanda-avila&theme=midnight-purple&hide_border=true"/>
-
-</div>
-
----
-
-## Activity Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fernanda-avila&theme=react-dark&hide_border=true"/>
-
-</div>
-
----
-
 ## GitHub Summary
 
 <div align="center">
