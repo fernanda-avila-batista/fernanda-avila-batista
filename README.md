@@ -10,11 +10,11 @@
 
 ---
 
-## About
+## Sobre
 
-Data Analyst with a background in Systems Development and currently pursuing a degree in Computer Science.
+Analista de Dados, estudante de Computação no IFSul e Técnica em Desenvolvimento de Sistemas pelo Senac RS.
 
-Focused on Data Engineering, ETL pipelines, SQL, Cloud Computing and Analytics, building scalable data solutions with Python and AWS.
+Atuo no desenvolvimento de soluções voltadas à Engenharia de Dados, com foco em pipelines ETL, processamento de dados, SQL, Python e computação em nuvem. Sou certificada AWS Cloud Practitioner (CLF-C02) e estou constantemente aprimorando meus conhecimentos em Data Engineering e Inteligência Artificial.
 
 ---
 
