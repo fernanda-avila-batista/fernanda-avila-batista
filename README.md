@@ -2,9 +2,9 @@
 
 # Fernanda Ávila
 
-### Data Engineer • Python • SQL • AWS
+### Data Engineer | Python • SQL • AWS
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=7F5AF0&center=true&vCenter=true&width=650&lines=Data+Engineer;Python+%7C+SQL+%7C+AWS;Cloud+Computing;Data+Analytics"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=7F5AF0&center=true&vCenter=true&width=650&lines=Data+Engineer;Python+%7C+SQL+%7C+AWS;ETL+Pipelines;Cloud+Computing;Data+Analytics"/>
 
 </div>
 
@@ -12,57 +12,115 @@
 
 ## Sobre
 
-Analista de Dados, estudante de Computação no IFSul e Técnica em Desenvolvimento de Sistemas pelo Senac RS.
+Sou Analista de Dados e estudante de Computação no IFSul, com formação técnica em Desenvolvimento de Sistemas pelo Senac RS.
 
-Atuo no desenvolvimento de soluções voltadas à Engenharia de Dados, com foco em pipelines ETL, processamento de dados, SQL, Python e computação em nuvem. Sou certificada AWS Cloud Practitioner (CLF-C02) e estou constantemente aprimorando meus conhecimentos em Data Engineering e Inteligência Artificial.
+Atuo no desenvolvimento de soluções voltadas à Engenharia de Dados, com foco em pipelines ETL, processamento de dados, modelagem em SQL e computação em nuvem.
 
----
-
-## Technologies
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Data
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-### Cloud & Tools
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+Possuo certificação **AWS Certified Cloud Practitioner (CLF-C02)** e direciono meus estudos para Engenharia de Dados, arquitetura de dados e Inteligência Artificial.
 
 ---
 
-## GitHub Profile Summary
+## Stack
+
+### Linguagens
+
+<p>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
+
+</p>
+
+### Engenharia de Dados
+
+<p>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Polars-0194E2?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
+
+### Cloud & DevOps
+
+<p>
+
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+
+</p>
+
+---
+
+## Certificações
+
+<p>
+
+<img src="https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner_(CLF--C02)-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+---
+
+## GitHub Statistics
 
 <div align="center">
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernanda-avila&theme=github_dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=fernanda-avila&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernanda-avila&theme=github_dark"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-avila&layout=compact&theme=midnight-purple&hide_border=true"/>
 
 <br><br>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fernanda-avila&theme=github_dark"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernanda-avila&theme=github_dark"/>
+<img src="https://streak-stats.demolab.com?user=fernanda-avila&theme=midnight-purple&hide_border=true"/>
 
 </div>
 
 ---
 
-## Contact
+## Activity Graph
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=fernanda-avila&theme=react-dark&hide_border=true"/>
+
+</div>
+
+---
+
+## GitHub Summary
+
+<div align="center">
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernanda-avila&theme=midnight_purple"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernanda-avila&theme=midnight_purple"/>
+
+<br><br>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernanda-avila&theme=midnight_purple"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fernanda-avila&theme=midnight_purple"/>
+
+</div>
+
+---
+
+## Contato
 
 <div align="center">
 
@@ -80,7 +138,7 @@ Atuo no desenvolvimento de soluções voltadas à Engenharia de Dados, com foco 
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
