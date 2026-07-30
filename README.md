@@ -4,7 +4,7 @@
 
 ### Data Engineer | Python • SQL • AWS
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=7F5AF0&center=true&vCenter=true&width=650&lines=Data+Engineer;Python+%7C+SQL+%7C+AWS;ETL+Pipelines;Cloud+Computing;Data+Analytics"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3500&pause=1200&color=7F5AF0&center=true&vCenter=true&width=650&lines=Data+Engineer;Python+%7C+SQL+%7C+AWS;ETL+Pipelines;Cloud+Computing;Data+Analytics" alt="Typing SVG"/>
 
 </div>
 
@@ -20,7 +20,7 @@ Possuo as certificações **AWS Certified Cloud Practitioner (CLF-C02)** e **Git
 
 ---
 
-## Stack
+## Tecnologias
 
 ### Linguagens
 
@@ -30,15 +30,13 @@ Possuo as certificações **AWS Certified Cloud Practitioner (CLF-C02)** e **Git
 
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
 </p>
 
 ### Engenharia de Dados
 
 <p>
-
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
@@ -46,7 +44,21 @@ Possuo as certificações **AWS Certified Cloud Practitioner (CLF-C02)** e **Git
 
 <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white"/>
+
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+</p>
+
+### Bancos de Dados
+
+<p>
+
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 </p>
 
@@ -100,7 +112,7 @@ Possuo as certificações **AWS Certified Cloud Practitioner (CLF-C02)** e **Git
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/fernanda-avila-batista">
+<a href="https://www.linkedin.com/in/fernanda-avila-batista" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -108,7 +120,7 @@ Possuo as certificações **AWS Certified Cloud Practitioner (CLF-C02)** e **Git
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/fernanda-avila">
+<a href="https://github.com/fernanda-avila" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
